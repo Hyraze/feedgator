@@ -1,0 +1,40 @@
+{
+  "name": "feedgator",
+  "private": true,
+  "description": "A minimalistic Gatsby blog rendering your favourite RSS feeds",
+  "version": "1.0",
+  "license": "MIT",
+  "scripts": {
+    "build": "gatsby build",
+    "develop": "gatsby develop",
+    "serve": "gatsby serve",
+    "deploy": "gatsby build --prefix-paths && gh-pages -d public"
+  },
+  "dependencies": {
+    "gatsby": "^2.20.23",
+    "gatsby-cli": "^2.11.9",
+    "gatsby-plugin-use-dark-mode": "^1.1.2",
+    "gatsby-source-graphql": "^2.4.1",
+    "prop-types": "^15.7.2",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "typescript": "^3.8.3",
+    "use-dark-mode": "^2.3.1"
+  },
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-standard": "^12.0.0",
+    "eslint-plugin-import": "^2.20.2",
+    "eslint-plugin-node": "^8.0.1",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.0.1",
+    "gh-pages": "^2.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Hyraze/feedgator"
+  },
+  "bugs": {
+    "url": "https://github.com/Hyraze/feedgator/issues"
+  }
+}
