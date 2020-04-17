@@ -11,10 +11,10 @@
     "deploy": "gatsby build --prefix-paths && gh-pages -d public"
   },
   "dependencies": {
-    "gatsby": "2.20.23",
-    "gatsby-cli": "2.11.9",
+    "gatsby": "2.20.24",
+    "gatsby-cli": "2.11.10",
     "gatsby-plugin-use-dark-mode": "1.1.2",
-    "gatsby-source-graphql": "2.4.1",
+    "gatsby-source-graphql": "2.4.2",
     "prop-types": "15.7.2",
     "react": "16.13.1",
     "react-dom": "16.13.1",
