@@ -16,7 +16,8 @@
 
 ### 🏠 [Homepage](https://github.com/Hyraze/feedgator#readme)
 
-### ✨ [Demo](https://hyraze.github.io/feedgator)
+### ✨ [Demo](https://feedgator.netlify.app/)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/0480f39a-5ec9-4b07-a658-bb25f8233a08/deploy-status)](https://app.netlify.com/sites/feedgator/deploys)
 ## Prerequisites
 
 - Node (I recommend using latest version)
