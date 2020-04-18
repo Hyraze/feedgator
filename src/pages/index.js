@@ -36,7 +36,7 @@ export const HomePage = ({ data }) => {
   
   <div id="root" className="lh-copy mw6 center ph3">
     <header className="tc">
-      <h1 className="f1 lh-title mb0">Feedgator</h1>
+      <h1 className="awesome 1 lh-title mb0">Feedgator</h1>
       <h2 className="cent"><DarkModeToggle/></h2>
       
       <h2 className="f5 fw1">
