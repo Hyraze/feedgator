@@ -12,8 +12,8 @@
   },
   "dependencies": {
     "acorn": "^6.4.1",
-    "gatsby": "2.20.24",
-    "gatsby-cli": "2.11.10",
+    "gatsby": "2.20.25",
+    "gatsby-cli": "2.11.11",
     "gatsby-plugin-use-dark-mode": "1.1.2",
     "gatsby-source-graphql": "2.4.2",
     "prop-types": "15.7.2",
