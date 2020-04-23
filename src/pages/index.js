@@ -130,7 +130,7 @@ export const query = graphql`
   {
     oneGraph {
       cssWizardry: rss {
-        rss2Feed(url: "https://csswizardry.com/feed/") {
+        rss2Feed(url: "https://csswizardry.com/feed") {
           ...RSSFeedFragment
         }
       }
