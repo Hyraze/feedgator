@@ -134,8 +134,8 @@ export const query = graphql`
           ...RSSFeedFragment
         }
       }
-      github: rss {
-        rss2Feed(url: "http://feeds.feedburner.com/gitrepos?fmt=xml") {
+      codepen: rss {
+        rss2Feed(url: "https://blog.codepen.io/feed/") {
           ...RSSFeedFragment
         }
       }
