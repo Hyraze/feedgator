@@ -5,6 +5,7 @@
 </div>
 <br />
 <p align="center">:octocat: A minimalistic Gatsby blog rendering your favourite RSS feeds.</p>
+
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/Hyraze/gitrepos/blob/master/LICENSE)
 [![Code of Conduct](https://img.shields.io/badge/code%20of-conduct-ff69b4.svg)](CODE_OF_CONDUCT.md)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](https://github.com/Hyraze/gitrepos/issues)
