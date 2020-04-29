@@ -1,23 +1,25 @@
 <h1 align="center">Welcome to Feedgator 👋</h1>
-<p>
-  <img alt="Version" src="https://img.shields.io/badge/version-1.0-blue.svg?cacheSeconds=2592000" />
-  <a href="https://github.com/Hyraze/feedgator#readme" target="_blank">
-    <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
-  </a>
-  <a href="https://github.com/Hyraze/feedgator/blob/master/LICENSE" target="_blank">
-    <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
-  </a>
-  <a href="https://twitter.com/Hanishrao" target="_blank">
-    <img alt="Twitter: Hanishrao" src="https://img.shields.io/twitter/follow/Hanishrao.svg?style=social" />
-  </a>
-</p>
-
-> A minimalistic Gatsby blog rendering your favourite RSS feeds
-
-### 🏠 [Homepage](https://github.com/Hyraze/feedgator#readme)
-
-### ✨ [Demo](https://feedgator.netlify.app/)
+<br />
+<div align="center">
+    <img src="src/assets/images/feedgator.png" alt="hero image" width="400"/>
+</div>
+<br />
+<p align="center">:octocat: A minimalistic Gatsby blog rendering your favourite RSS feeds.</p>
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/Hyraze/gitrepos/blob/master/LICENSE)
+[![Code of Conduct](https://img.shields.io/badge/code%20of-conduct-ff69b4.svg)](CODE_OF_CONDUCT.md)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](https://github.com/Hyraze/gitrepos/issues)
+[![Known Vulnerabilities](https://snyk.io/test/github/Hyraze/gitrepos/badge.svg?targetFile=package.json)](https://snyk.io/test/github/Hyraze/feedgator?targetFile=package.json)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/0480f39a-5ec9-4b07-a658-bb25f8233a08/deploy-status)](https://app.netlify.com/sites/feedgator/deploys)
+<a href="https://twitter.com/Hanishrao" target="_blank">
+<img alt="Twitter: Hanishrao" src="https://img.shields.io/twitter/follow/Hanishrao.svg?style=social" />
+</a>
+
+## 🏠 [Homepage](https://github.com/Hyraze/feedgator#readme)
+
+
+## ✨ [Demo](https://feedgator.netlify.app/)
+
+
 ## Prerequisites
 
 - Node (I recommend using latest version)
