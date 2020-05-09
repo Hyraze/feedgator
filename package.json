@@ -13,7 +13,7 @@
     "prepare": "npm run snyk-protect"
   },
   "dependencies": {
-    "acorn": "7.1.1",
+    "acorn": "7.2.0",
     "gatsby": "2.21.21",
     "gatsby-cli": "2.12.15",
     "gatsby-plugin-use-dark-mode": "1.1.2",
