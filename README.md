@@ -18,7 +18,7 @@
 ## 🏠 [Homepage](https://github.com/Hyraze/feedgator#readme)
 
 
-## ✨ [Demo](https://feedgator.netlify.app/)
+## ✨ [Demo](https://feedgator.now.sh/)
 
 
 ## Prerequisites
