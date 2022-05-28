@@ -8,7 +8,9 @@
     "build": "gatsby build",
     "develop": "gatsby develop",
     "serve": "gatsby serve",
-    "deploy": "gatsby build --prefix-paths && gh-pages -d public"
+    "deploy": "gatsby build --prefix-paths && gh-pages -d public",
+    "prepare": "npm run snyk-protect",
+    "snyk-protect": "snyk-protect"
   },
   "dependencies": {
     "acorn": "7.2.0",
@@ -20,7 +22,8 @@
     "react": "16.13.1",
     "react-dom": "16.13.1",
     "typescript": "3.9.2",
-    "use-dark-mode": "2.3.1"
+    "use-dark-mode": "2.3.1",
+    "@snyk/protect": "latest"
   },
   "devDependencies": {
     "eslint": "7.0.0",
@@ -38,5 +41,6 @@
   },
   "bugs": {
     "url": "https://github.com/Hyraze/feedgator/issues"
-  }
+  },
+  "snyk": true
 }
