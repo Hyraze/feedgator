@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "acorn": "7.2.0",
-    "gatsby": "4.14.0",
+    "gatsby": "5.4.0",
     "gatsby-cli": "2.12.21",
     "gatsby-plugin-use-dark-mode": "1.1.2",
     "gatsby-source-graphql": "2.5.1",
