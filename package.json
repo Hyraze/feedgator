@@ -11,7 +11,7 @@
     "deploy": "gatsby build --prefix-paths && gh-pages -d public"
   },
   "dependencies": {
-    "acorn": "7.2.0",
+    "acorn": "7.4.1",
     "gatsby": "4.14.0",
     "gatsby-cli": "2.12.21",
     "gatsby-plugin-use-dark-mode": "1.1.2",
